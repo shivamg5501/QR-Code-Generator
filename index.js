@@ -3,7 +3,7 @@
 //1.Inqirer
 //2.qr-image generator
 
-//importing from both packages
+
 import inquirer from 'inquirer';
 import qr from 'qr-image';
 import fs from 'fs';
